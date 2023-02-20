@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1676774324139,
+      "body": "semangat kak kuliahnya",
+      "name": "Indahnya dunia"
+    },
+    {
+      "userId": 1,
+      "id": 1676774368106,
+      "body": "Iya, semangat juga",
+      "name": "Rezal"
+    },
+    {
+      "userId": 1,
+      "id": 1676774432160,
+      "body": "jangan lupa tersenyum",
+      "name": "Rezal"
+    },
+    {
+      "userId": 1,
+      "id": 1676774590050,
+      "body": "Semangat kaka",
+      "name": "Ainun"
+    },
+    {
+      "userId": 1,
+      "id": 1676859842550,
+      "body": "halo mas rezal, apakabar",
+      "name": "Rahasia"
+    },
+    {
+      "userId": 1,
+      "id": 1676859869414,
+      "body": "Alhamdulillah baik",
+      "name": "Rezal"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
